@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  background-color: #e1e1e1;
+}
+
+#container {
+  margin: 0 10%;
+}
+
+h1 {
+  padding-left: 2em;
+  float: left;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+
+nav {
+  padding: 2em;
+  float: right;
+  text-decoration: none;
+}
+
+.topnav {
+  text-decoration: none;
+}
+
+header {
+  background-color: #033048;
+  margin: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  display: inline-block;
+  font-family: 'Open Sans', sans-serif;
+  padding-left: 2em;
+}
+
+.clear {
+  clear: both;
+}
+
+h2 {
+  font-family: 'Open Sans', sans-serif;
+  color: #033048;
+  font-weight: normal;
+  font-size: 2em;
+  margin-top: 0;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  text-align: justify;
+  font-size: 1.2em;
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.main {
+  float: left;
+  width: 65%;
+}
+
+.mainNav {
+  display: inline;
+}
+
+.sideBar {
+  float: right;
+  width: 35%;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  color: #033048;
+}
+
+.centreButton {
+  text-align: center;
+}
+
+.signup {
+  text-align: center;
+  width: 100vw;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f9e42e;
+}
+
+.buttonsignup{
+  background-color: #033048;
+  color: white;
+  padding: 10px 30px;
+}
+
+.buttonGet{
+  background-color: #f9e42e;
+  color: grey;
+  padding: 10px 30px;
+}
+
+footer {
+  background-color: #121212;
+  width: 100vw;
+  padding-top: 30px;
+  text-align: center;
+}
+
+.footertitle {
+  color: #f9e42e;
+  padding-bottom: 3vh;
+}
+
+.socialMedia {
+  padding: 10px;
+  width: 25px;
+  height: 22px;
+}
+
+.copyright {
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 9px;
+}
+
+p::first-letter {
+  font-size: 3em;
+}
+
+.copyright {
+  text-align: center;
+}
+
+.readMore {
+  text-align: right;
+}
